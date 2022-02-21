@@ -21,28 +21,28 @@ void initialize_game(void)
     	strcpy(questions[i].answer, "Answer");
 }
     questions[0].value = 200;
-    strcpy(questions[0].question, "Common gas represented by the formula CO2");
-    strcpy(questions[0].answer, "Carbon Dioxide");
+    strcpy(questions[0].question, "Largest Building in the World");
+    strcpy(questions[0].answer, "Burj Khalifa");
 
     questions[1].value = 200;
-    strcpy(questions[1].question, "In magnetism, like poles do this");
-    strcpy(questions[1].answer, "repel");
+    strcpy(questions[1].question, "Biggest Country in the World");
+    strcpy(questions[1].answer, "Russia");
 
     questions[2].value = 200;
-    strcpy(questions[2].question, "Measuring system established in France in 1790, called originally Systeme Internationale");
-    strcpy(questions[2].answer, "metric system");
+    strcpy(questions[2].question, "Where do Eleplants live");
+    strcpy(questions[2].answer, "Asia and Africa");
 
     questions[3].value = 200;
-    strcpy(questions[3].question, "Members of all nationalities except French can join this fighting force");
-    strcpy(questions[3].answer, "Foreign LEgion");
+    strcpy(questions[3].question, "Highest Mountain in the World");
+    strcpy(questions[3].answer, "The Himalayas");
 
     questions[4].value = 200;
-    strcpy(questions[4].question, "Name of the air arm of the German military");
-    strcpy(questions[4].answer, "luftwaffe");
+    strcpy(questions[4].question, "Longest River in the World");
+    strcpy(questions[4].answer, "The Nile");
 
     questions[5].value = 200;
-    strcpy(questions[5].question, "The U.S. Air Force was part of the Army until ... It was called the Army Air Corp");
-    strcpy(questions[5].answer, "1946");
+    strcpy(questions[5].question, "Biggest Animal in the World");
+    strcpy(questions[5].answer, "Blue Whale");
 
     questions[6].value = 200;
     strcpy(questions[6].question, "Mt. Logan was thought the highest on this continent till someone measured Mt. McKinley");
