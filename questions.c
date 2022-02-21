@@ -45,16 +45,16 @@ void initialize_game(void)
     strcpy(questions[5].answer, "Blue Whale");
 
     questions[6].value = 200;
-    strcpy(questions[6].question, "Mt. Logan was thought the highest on this continent till someone measured Mt. McKinley");
-    strcpy(questions[6].answer, "North America");
+    strcpy(questions[6].question, "National leaf of Canada");
+    strcpy(questions[6].answer, "Maple leaf");
 
     questions[7].value = 200;
-    strcpy(questions[7].question, "Different surveys have reported its height as 29,002, 29,141 and 29,028 feet");
-    strcpy(questions[7].answer, "Mount Everest");
+    strcpy(questions[7].question, "President of the United States");
+    strcpy(questions[7].answer, "Joe Biden");
 
     questions[8].value = 200;
-    strcpy(questions[8].question, "A mountain chain in the Sahara bears the name of this mythical man who bears the world");
-    strcpy(questions[8].answer, "Atlas");
+    strcpy(questions[8].question, "Capital of Canada");
+    strcpy(questions[8].answer, "Ottawa");
 
 // Displays each of the remaining categories and question dollar values that have not been answered
 void display_categories(void)
